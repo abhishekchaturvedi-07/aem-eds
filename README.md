@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: [https://main--{repo}--{owner}.aem.page/](https://main--aem-eds--abhishekchaturvedi-07.aem.page/)
-- Live: [https://main--{repo}--{owner}.aem.live/](https://main--aem-eds--abhishekchaturvedi-07.aem.live/)
+- Preview: [https://main--aem-eds--abhishekchaturvedi-07.aem.page/](https://main--aem-eds--abhishekchaturvedi-07.aem.page/)
+- Live: [https://main--aem-eds--abhishekchaturvedi-07.aem.live/](https://main--aem-eds--abhishekchaturvedi-07.aem.live/)
 
 ## Installation
 
